@@ -4,5 +4,6 @@ Attached you will find the Open Source files for the 2017/2018 SecKC T-Shirt Des
 
 Since the theme is 'Ascii Art' make sure to view the files in 'RAW' format to see how they will print.
 
-http://i.imgur.com/90YdNsl.png
-http://i.imgur.com/8jpIQ8X.png
+![Front](http://i.imgur.com/90YdNsl.png)
+![Back](http://i.imgur.com/8jpIQ8X.png)
+
