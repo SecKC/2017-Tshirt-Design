@@ -1,14 +1,14 @@
                                               `:oddo:`                             
                                            ./ymMjMMjMmy/.                          
-                                        -+dNMjMMjMMjMMjMNd+-                     12
-                                    `:smN~~Destroy.No.Data~~ms:`                 18
-                                 -+h2~~Maintain.No.Persistence~~h+-              28
-                             `:odN2~~Above.All.Else,.Do.No.Harm~~3Ndo:`          32
-                          ./ymNDestroy.NodyssoooydData.Maintain.No.PMNmy/.       48
-                       -+hNersistence.AMd`       `.-://///+hbove.All.ElsMNh+-    54
-                      -Ne,Do.No.Harm.Des-                  `htroy.No.Data.3MN-   56
-                      :Maintain.No.Perss                    :istence.Above.Al:   56
-                      :l.Else,Do.No.Har`                     Nm.Destroy.No.Da:   56
+                                        -+dNMjMMjMMjMMjMNd+-                     
+                                    `:smN~~Destroy.No.Data~~ms:`                 
+                                 -+h2~~Maintain.No.Persistence~~h+-              
+                             `:odN2~~Above.All.Else,.Do.No.Harm~~3Ndo:`          
+                          ./ymNDestroy.NodyssoooydData.Maintain.No.PMNmy/.       
+                       -+hNersistence.AMd`       `.-://///+hbove.All.ElsMNh+-    
+                      -Ne,Do.No.Harm.Des-                  `htroy.No.Data.3MN-   
+                      :Maintain.No.Perss                    :istence.Above.Al:   
+                      :l.Else,Do.No.Har`                     Nm.Destroy.No.Da:   
                       :ta.Maintain.No.:                      yPersistence.Abo:     
                       :ve.All.Else,Do.                       :No.Harm.Destroy:     
                       :.No.Data./:-.`                        `Maintain.No.Per:     
@@ -22,32 +22,14 @@
                       :Harmd:                             `dDestroy.No.Data.M:     
                       :23d:                               saintain.No.Persist:     
                        /-                        /yo-    .ence.Above.All.Else:     
-                                                 `:yNNhydNDo.No.Harm.Destroy/   28 
-                                                 ```-ooy.No.Data.Maintado-`     26 
+                                                 `:yNNhydNDo.No.Harm.Destroy/    
+                                                 ```-ooy.No.Data.Maintado-`     
                                                .dMjMNMjMMjM.MjM-MjMzh+.`           
-                                              `MjMe.WE.ARE.MjMMjMs:`               
-                                               +sKANSAS.CITY'so-`                  
-                                                h.HACKERS-./.`                     
+                                              `MjM~~WE.ARE.~~MMjMs:`               
+                                               +~KANSAS.CITY's~-`                  
+                                                h~HACKERS~./.`                     
                                                 .ATH++MjM:`                        
                                                  +23+-`                            
                                                   `                                
 
-
-.Destroy.No.Data.Maintain.No.Persistence.Above.All.Else,Do.No.Harm
-#OUTHOUSE
-WE.ARE.KANSAS.CITYs.HACKERS
-
-
-             `.--..       `.........         `..--.`       `...`    ....        `..--.`             
-           .sdmNNNmh/     :mmmmmmmmm.      -sdmNNNNmh+`    :mmm/   ommm+     `:ydmNNNmdy/           
-          .mMMNyydmN:     /MMMdyyyyy`    `yNMMmhyydmMh`    /MMM+  oMMN+     -hMMMmhyydNMs           
-          -MMMd-.`.-      /MMMo...`      hMMMo`    .:`     /MMMo.sMMN/     `mMMN/`    .:            
-           +mMMMmds:`     /MMMNmmmm     .MMMh              /MMMNNMMM/      /MMMo                    
-            `:ohmMMMh`    /MMMdyyyy     .MMMm`             /MMMdyNMMh`     /MMMy                    
-           .s:``.hMMM-    /MMM+`````     sMMMh:````:y+`    /MMM+ :NMMd.    `dMMMy-```./y:           
-          -mMMNmmMMMh`    /MMMNmmmmm/     oNMMMNmmNMMN+    /MMM+  :NMMm.    `sNMMMmmmNMMN:          
-           :ohdmmdy/      :hhhhhhhhh:      `/shmmmdy+-     -hhh:   -hhhs`     .+ydmmmdy/.   
-
-
-
-
+56 chars at it's widest
