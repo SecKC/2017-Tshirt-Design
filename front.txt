@@ -1,18 +1,20 @@
 
 
+BEGIN SHIRT FRONT:
+
              `.--..       `.........         `..--.`       `...`    ....        `..--.`             
-           .sdmNNNmh/     :mmmmmmmmm.      -sdmNNNNmh+`    :mmm/   ommm+     `:ydmNNNmdy/           
-          .mMMNyydmN:     /MMMdyyyyy`    `yNMMmhyydmMh`    /MMM+  oMMN+     -hMMMmhyydNMs           
-          -MMMd-.`.-      /MMMo...`      hMMMo`    .:`     /MMMo.sMMN/     `mMMN/`    .:            
-           +mMMMmds:`     /MMMNmmmm     .MMMh              /MMMNNMMM/      /MMMo                    
-            `:ohmMMMh`    /MMMdyyyy     .MMMm`             /MMMdyNMMh`     /MMMy                    
-           .s:``.hMMM-    /MMM+`````     sMMMh:````:y+`    /MMM+ :NMMd.    `dMMMy-```./y:           
-          -mMMNmmMMMh`    /MMMNmmmmm/     oNMMMNmmNMMN+    /MMM+  :NMMm.    `sNMMMmmmNMMN:          
-           :RnVjayB/      :0aGUgRkJJ:      `/IEluZnJ+-     -hZ2:   -FyZA`     .+ooooooh/.   
+           .sdmNNNmh/     :Feistel:-.      -sdmNNNNmh+`    V.HT/   1337+     `:ydmNNNmdy/           
+          .haW5QZXJz:     /aXN0ZW5jZ`    `SE=AMFYOYOMh`    /MMM+  sMMN+     -mmk.LUMbergh.           
+          -root-.`.-      /MMMo..        hMMo`      .:`    /MMMo.sMMN/     `mMMo/`    .:`           
+           +mMMMmds:`     /#!/bin/sh    .MMMh              /TRIW0LF./      /MMMs                    
+            `:ohmMMMh`    /MMMdyyyK2    .MMMm`             /MISdyNOTh`     /524s                    
+           .s:``.hMMM-    /MMM+``        () { :;}; echo;   /MMM+ :NMMd.    `dMMMs-```./y:           
+          -mALLmmMMMh`    /MMYOurmmm/     allBAse64NMMN+   /RET+  :JFUG.    :An$w3rIs42:          
+           :7BELONG5/     :81TOUSa56:      `127871137-     -5d5:   -4415`    .354534156.   
 
 
+                                       KANSAS CITY HACKERS
 
-
-
+END SHIRT FRONT:\
 
 
